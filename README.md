@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![hz2's GitHub stats](https://read.me.not.wiki/api?username=hz2)
+![hz2's GitHub stats](https://readme-stats2.vercel.app/api?username=hz2)
 
-![Most Used Languages](https://read.me.not.wiki/api/top-langs/?username=hz2&hide=html,css&layout=compact)
+![Most Used Languages](https://readme-stats2.vercel.app/api/top-langs/?username=hz2&hide=html,css&layout=compact)
